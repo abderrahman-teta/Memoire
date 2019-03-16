@@ -1,5 +1,5 @@
 # Memoire
-This project made withe : javascript (Full Stack javaScript)
+This project made with : javascript (Full Stack javaScript)
 ## Technology used in it:
 for **frontend** : 
 - javascript (ES6)
