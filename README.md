@@ -24,7 +24,7 @@ what you need to run it in your server or local machine :
 ***
 
 
-After that navigate to graduate_project folder and run this command in terminal 👍 
+After that navigate to this folder and run this command in terminal 👍 
 
 `npm install`
 
